@@ -8,17 +8,17 @@ If you're curious about my work or just want to connect, you've come to the righ
 
 ### Arkanoid Game
 **Repository:** [Arkanoid-Game](https://github.com/liza-yemini/Arkanoid-Game)  
-**Description:** Dive into a vibrant Java-based Arkanoid game packed with multiple levels and a custom GUI.  
+**Description:** Java-based Arkanoid game with multiple levels and custom GUI implementation. Features include an interactive menu, customizable level sets, and unique single-thread design.
 **Technologies:** <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" width="20"> Java
 
 ### Cracking Service
 **Repository:** [CrackingService](https://github.com/liza-yemini/CrackingService)  
-**Description:** A nimble service designed to decipher MD5-hashed phone numbers.  
+**Description:** Lightweight service designed to crack MD5-hashed phone numbers following the pattern (05X-XXXXXXX).
 **Technologies:** <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="20"> C#
 
 ### Ordered List Project
 **Repository:** [OrderedListProject](https://github.com/liza-yemini/OrderedListProject)  
-**Description:** Delve into a lightweight C# solution that presents generic ordered lists.  
+**Description:** Lightweight C# solution that presents generic ordered lists.  
 **Technologies:** <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="20"> C#
 
 ### Angular Chat Bot
